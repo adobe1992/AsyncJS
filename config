@@ -1,9 +1,0 @@
-Host github.com
-   HostName github.com
-   User git
-   IdentityFile ~/.ssh/github
-Host git@gzvpn.yunfangdata.com:8080/ken/Inwork3.git
-   HostName 192.168.3.249
-   User work
-   IdentityFile ~/.ssh/id_rsa
-
